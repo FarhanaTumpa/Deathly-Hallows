@@ -1,0 +1,13 @@
+﻿Build started 20-Jan-18 11:59:48 PM.
+     1>Project "C:\Users\HP\Desktop\Deathly Hallows\Deathly Hallows.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Deathly Hallows.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\hp\desktop\deathly hallows\imain.cpp(103): error C3861: 'mode_2': identifier not found
+     1>Done Building Project "C:\Users\HP\Desktop\Deathly Hallows\Deathly Hallows.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56
